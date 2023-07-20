@@ -1,2 +1,3 @@
 # Netflix_Clone
-Tech Stack: HTML , CSS , Javascript. This is a simple Front-end clone of the Netflix.
+<p>Tech Stack: HTML , CSS , Javascript.</p>
+            <p>This is a simple Front-end clone of the Netflix.</p>
